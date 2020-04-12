@@ -26,12 +26,13 @@
             "styles": [
               "src/styles.css",
               "src/assets/bs4/css/bootstrap.min.css",
-              "src/assets/fontawesome/css/fontawesome.min.css"
+              "node_modules/@fortawesome/fontawesome-free/css/all.css"
             ],
             "scripts": [
               "src/assets/tether/tether.min.js",
               "src/assets/bs4/js/bootstrap.min.js",
-              "src/assets/jquery/jquery.slim.min.js"
+              "src/assets/jquery/jquery.slim.min.js",
+              "src/assets/fontawesome/js/all.min.js"
             ]
           },
           "configurations": {
