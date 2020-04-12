@@ -24,9 +24,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/bs4/css/bootstrap.min.css",
+              "src/assets/fontawesome/css/fontawesome.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/tether/tether.min.js",
+              "src/assets/bs4/js/bootstrap.min.js",
+              "src/assets/jquery/jquery.slim.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -88,9 +94,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/bs4/css/bootstrap.min.css",
+              "src/assets/fontawesome/css/fontawesome.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/tether/tether.min.js",
+              "src/assets/bs4/js/bootstrap.min.js",
+              "src/assets/jquery/jquery.slim.min.js"
+            ]
           }
         },
         "lint": {
