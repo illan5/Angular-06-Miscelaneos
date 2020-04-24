@@ -8,8 +8,9 @@ import { Component, OnInit } from '@angular/core';
   <app-clases></app-clases>
 
   <p [appResaltado]="'orange'"> 
-    Hola Mundo
+    Texto que se remarca cuando pasamos el mouse por encima
   </p>
+  <app-ng-switch></app-ng-switch>
   `,
   styles: []
 })
