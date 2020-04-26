@@ -1,6 +1,9 @@
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)
 # Miscelaneos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+![](Miscelaneos-demo.gif)
 
 ## Development server
 
